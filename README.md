@@ -19,4 +19,4 @@ This is my responsive personal portfolio website built with HTML, CSS, and JavaS
 🚀 How to Use
 
 1. Clone this repo:
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/Uswahy/Portfolio.git
